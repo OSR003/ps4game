@@ -1,0 +1,20 @@
+button{
+
+    padding: 5px;
+    margin: 10px 0px;
+    background-color: blue;
+    color: white;
+    border-color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+table{
+    border-width: 5px;
+    border-color: blue;
+}
+
+td{
+    border-width: 5px;
+    border-color: blue;
+}
