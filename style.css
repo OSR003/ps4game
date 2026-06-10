@@ -11,12 +11,12 @@ button{
 
 table{
     border-width: 5px;
-    border-color: blue;
+    border-color: rgb(0, 225, 255)
 }
 
 td{
     border-width: 5px;
-    border-color: blue;
+    border-color: rgb(0, 26, 255);;
 }
 
 
